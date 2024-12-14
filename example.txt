@@ -1,1 +1,3 @@
+<<<<<<< HEAD
 Adding second line on example.com
+=======
